@@ -1,0 +1,6 @@
+package dev.makstop.telegram
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
